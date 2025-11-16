@@ -1,0 +1,63 @@
+person1_id,person2_id,person1_role,person2_role
+4,5,uncle,niece
+4,5,first cousin once removed,first cousin once removed
+4,5,second cousin once removed,second cousin once removed
+4,1,father,son
+5,1,mother,son
+4,1,great uncle,grand-nephew
+5,1,cousin,cousin
+4,6,father,daughter
+5,6,mother,daughter
+4,6,great uncle,grand-niece
+5,6,cousin,cousin
+7,6,uncle,niece
+7,6,cousin,cousin
+7,6,second cousin once removed,second cousin once removed
+8,9,cousin,cousin
+8,9,second cousin,second cousin
+9,5,mother,daughter
+8,5,father,daughter
+8,7,father,son
+9,7,mother,son
+10,9,father,daughter
+11,9,mother,daughter
+10,4,father,son
+11,4,mother,son
+12,10,father,son
+13,10,mother,son
+14,11,father,daughter
+15,11,mother,daughter
+14,16,father,son
+15,16,mother,son
+16,8,father,son
+17,8,mother,son
+15,17,aunt,niece
+16,17,cousin,cousin
+18,12,father,son
+19,12,mother,son
+18,20,father,daughter
+19,20,mother,daughter
+21,13,father,daughter
+20,13,mother,daughter
+22,21,father,son
+23,21,mother,son
+22,14,father,son
+23,14,mother,son
+24,18,father,son
+25,18,mother,son
+24,22,father,son
+25,22,mother,son
+20,21,cousin,cousin
+12,13,uncle,niece
+12,13,first cousin once removed,first cousin once removed
+12,13,second cousin,second cousin
+10,11,first cousin once removed,first cousin once removed
+10,11,second cousin,second cousin
+9,7,first cousin once removed,first cousin once removed
+9,11,first cousin once removed,first cousin once removed
+4,11,first cousin once removed,first cousin once removed
+11,15,first cousin once removed,first cousin once removed
+16,15,first cousin once removed,first cousin once removed
+12,10,great uncle,grand-nephew
+13,10,cousin,cousin
+13,20,first cousin once removed,first cousin once removed
